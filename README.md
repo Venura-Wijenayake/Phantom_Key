@@ -37,7 +37,7 @@ It runs in the background while you type and displays:
 
 - Best run in a local dev environment on Windows
 - Currently a Python prototype (C# version planned)
-- Please Note the current heatmap is not accurate due to a delay in the way keys are captured. Addressed in next Version (Soon!)
+- ⚠️ Note: The current heatmap may occasionally miss fast keystrokes due to event timing delays in Python. This will be addressed in a future version.
 - Built by [@Venura-Wijenayake](https://github.com/Venura-Wijenayake)
 
 > _“We are Slow Loris. We are creatures of the night. We Branch.”_
