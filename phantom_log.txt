@@ -1,0 +1,62 @@
+[2025-08-04 17:32 → 17:33] WPM: 6.83 | CPS: 0.57 | Chars: 23 | Backs: 0 | Mistakes: 0.00%
+[2025-08-04 17:41 → 17:41] WPM: 25.12 | CPS: 2.09 | Chars: 95 | Backs: 0 | Mistakes: 0.00%
+[2025-08-04 17:43 → 17:52] WPM: 6.59 | CPS: 0.55 | Chars: 298 | Backs: 8 | Mistakes: 2.68%
+[2025-08-04 17:53 → 17:58] WPM: 4.46 | CPS: 0.37 | Chars: 127 | Backs: 7 | Mistakes: 5.51%
+[2025-08-04 17:59 → 18:05] WPM: 16.38 | CPS: 1.37 | Chars: 519 | Backs: 6 | Mistakes: 1.16%
+[2025-08-04 18:06 → 18:06] WPM: 2.31 | CPS: 0.19 | Chars: 1 | Backs: 0 | Mistakes: 0.00%
+[2025-08-04 18:06 → 18:07] WPM: 1.18 | CPS: 0.10 | Chars: 2 | Backs: 0 | Mistakes: 0.00%
+[2025-08-04 18:07 → 18:12] WPM: 12.13 | CPS: 1.01 | Chars: 310 | Backs: 8 | Mistakes: 2.58%
+[2025-08-04 18:13 → 18:15] WPM: 12.24 | CPS: 1.02 | Chars: 149 | Backs: 5 | Mistakes: 3.36%
+[2025-08-04 18:16 → 18:17] WPM: 1.36 | CPS: 0.11 | Chars: 6 | Backs: 0 | Mistakes: 0.00%
+[2025-08-04 18:26 → 18:30] WPM: 6.76 | CPS: 0.56 | Chars: 129 | Backs: 10 | Mistakes: 7.75%
+[2025-08-04 18:30 → 18:31] WPM: 2.38 | CPS: 0.20 | Chars: 4 | Backs: 0 | Mistakes: 0.00%
+[2025-08-04 18:31 → 18:35] WPM: 1.19 | CPS: 0.10 | Chars: 21 | Backs: 0 | Mistakes: 0.00%
+[2025-08-04 18:37 → 18:37] WPM: 10.66 | CPS: 0.89 | Chars: 24 | Backs: 0 | Mistakes: 0.00%
+[2025-08-04 19:13 → 19:14] WPM: 3.63 | CPS: 0.30 | Chars: 17 | Backs: 27 | Mistakes: 158.82%
+[2025-08-04 19:37 → 19:38] WPM: 29.46 | CPS: 2.45 | Chars: 128 | Backs: 0 | Mistakes: 0.00%
+[2025-08-04 20:03 → 20:07] WPM: 15.66 | CPS: 1.31 | Chars: 310 | Backs: 7 | Mistakes: 2.26%
+[2025-08-04 20:12 → 20:13] WPM: 10.83 | CPS: 0.90 | Chars: 77 | Backs: 73 | Misspelled: 1 | Mistakes: 94.81%
+[2025-08-04 20:14 → 20:15] WPM: 13.82 | CPS: 1.15 | Chars: 60 | Backs: 0 | Misspelled: 0 | Mistakes: 0.00%
+[2025-08-04 20:22 → 20:23] WPM: 7.91 | CPS: 0.66 | Chars: 35 | Backs: 2 | Misspelled: 2 | Mistakes: 5.71%
+[2025-08-04 20:23 → 20:24] WPM: 9.83 | CPS: 0.82 | Chars: 54 | Backs: 1 | Misspelled: 3 | Mistakes: 1.85%
+[2025-08-04 20:29 → 20:29] WPM: 6.39 | CPS: 0.53 | Chars: 5 | Backs: 2 | Misspelled: 0 | Mistakes: 40.00%
+[2025-08-04 20:29 → 20:30] WPM: 14.08 | CPS: 1.17 | Chars: 92 | Backs: 1 | Misspelled: 6 | Mistakes: 1.09%
+[2025-08-04 20:32 → 20:32] WPM: 28.13 | CPS: 2.34 | Chars: 50 | Backs: 0 | Misspelled: 1 | Mistakes: 0.00%
+[2025-08-04 21:09 → 21:09] WPM: 4.19 | CPS: 0.35 | Chars: 5 | Backs: 1 | Misspelled: 0 | Mistakes: 10.00%
+[2025-08-04 21:09 → 21:09] WPM: 4.27 | CPS: 0.36 | Chars: 4 | Backs: 2 | Misspelled: 0 | Mistakes: 25.00%
+[2025-08-04 21:10 → 21:13] WPM: 15.21 | CPS: 1.27 | Chars: 268 | Backs: 5 | Misspelled: 12 | Mistakes: 7.65%
+[2025-08-04 21:17 → 21:22] WPM: 12.23 | CPS: 1.02 | Chars: 295 | Backs: 9 | Misspelled: 6 | Mistakes: 4.58%
+[2025-08-04 21:31 → 21:32] WPM: 23.06 | CPS: 1.92 | Chars: 40 | Backs: 0 | Misspelled: 1 | Mistakes: 3.75%
+[2025-08-04 21:33 → 21:33] WPM: 10.87 | CPS: 0.91 | Chars: 28 | Backs: 1 | Misspelled: 0 | Mistakes: 1.79%
+[2025-08-04 21:33 → 21:34] WPM: 21.83 | CPS: 1.82 | Chars: 51 | Backs: 5 | Misspelled: 1 | Mistakes: 7.84%
+[2025-08-04 21:38 → 00:07] WPM: 0.17 | CPS: 0.01 | Chars: 126 | Backs: 2 | Misspelled: 3 | Mistakes: 4.37%
+[2025-08-05 00:08 → 00:10] WPM: 12.17 | CPS: 1.01 | Chars: 146 | Backs: 1 | Misspelled: 0 | Mistakes: 0.34%
+[2025-08-05 00:10 → 00:15] WPM: 4.98 | CPS: 0.41 | Chars: 108 | Backs: 0 | Misspelled: 5 | Mistakes: 6.94%
+[2025-08-05 00:19 → 00:21] WPM: 15.86 | CPS: 1.32 | Chars: 198 | Backs: 4 | Misspelled: 3 | Mistakes: 3.28%
+[2025-08-05 00:24 → 00:25] WPM: 31.78 | CPS: 2.65 | Chars: 134 | Backs: 1 | Misspelled: 1 | Mistakes: 1.49%
+[2025-08-05 00:26 → 00:26] WPM: 41.35 | CPS: 3.45 | Chars: 8 | Backs: 0 | Misspelled: 1 | Mistakes: 18.75%
+[2025-08-05 00:27 → 00:31] WPM: 9.95 | CPS: 0.83 | Chars: 192 | Backs: 5 | Misspelled: 2 | Mistakes: 2.86%
+[2025-08-05 00:32 → 00:34] WPM: 10.28 | CPS: 0.86 | Chars: 114 | Backs: 1 | Misspelled: 1 | Mistakes: 1.75%
+[2025-08-05 00:35 → 00:35] WPM: 18.98 | CPS: 1.58 | Chars: 19 | Backs: 7 | Misspelled: 0 | Mistakes: 18.42%
+[2025-08-05 00:35 → 00:36] WPM: 1.50 | CPS: 0.12 | Chars: 2 | Backs: 0 | Misspelled: 0 | Mistakes: 0.00%
+[2025-08-05 00:37 → 00:44] WPM: 12.63 | CPS: 1.05 | Chars: 453 | Backs: 10 | Misspelled: 6 | Mistakes: 3.09%
+[2025-08-05 00:44 → 00:58] WPM: 17.85 | CPS: 1.49 | Chars: 1221 | Backs: 32 | Misspelled: 16 | Mistakes: 3.28%
+[2025-08-05 00:58 → 01:03] WPM: 23.32 | CPS: 1.94 | Chars: 571 | Backs: 13 | Misspelled: 5 | Mistakes: 2.45%
+[2025-08-05 01:03 → 01:17] WPM: 12.00 | CPS: 1.00 | Chars: 858 | Backs: 42 | Misspelled: 14 | Mistakes: 4.90%
+[2025-08-05 01:18 → 01:18] WPM: 8.89 | CPS: 0.74 | Chars: 9 | Backs: 2 | Misspelled: 1 | Mistakes: 27.78%
+[2025-08-05 01:19 → 01:19] WPM: 35.21 | CPS: 2.93 | Chars: 71 | Backs: 1 | Misspelled: 1 | Mistakes: 2.82%
+[2025-08-05 01:26 → 01:38] WPM: 5.13 | CPS: 0.43 | Chars: 306 | Backs: 11 | Misspelled: 3 | Mistakes: 3.27%
+[2025-08-05 01:45 → 01:46] WPM: 8.87 | CPS: 0.74 | Chars: 32 | Backs: 0 | Misspelled: 2 | Mistakes: 9.38%
+[2025-08-05 01:47 → 02:00] WPM: 22.79 | CPS: 1.90 | Chars: 1435 | Backs: 76 | Misspelled: 15 | Mistakes: 4.22%
+[2025-08-05 02:05 → 02:07] WPM: 26.80 | CPS: 2.23 | Chars: 194 | Backs: 4 | Misspelled: 2 | Mistakes: 2.58%
+[2025-08-05 02:08 → 02:08] WPM: 6.90 | CPS: 0.58 | Chars: 4 | Backs: 2 | Misspelled: 0 | Mistakes: 25.00%
+[2025-08-05 02:08 → 02:08] WPM: 12.26 | CPS: 1.02 | Chars: 10 | Backs: 0 | Misspelled: 0 | Mistakes: 0.00%
+[2025-08-05 02:09 → 02:09] WPM: 11.95 | CPS: 1.00 | Chars: 3 | Backs: 0 | Misspelled: 0 | Mistakes: 0.00%
+[2025-08-05 02:10 → 02:13] WPM: 4.06 | CPS: 0.34 | Chars: 68 | Backs: 23 | Misspelled: 2 | Mistakes: 21.32%
+[2025-08-05 02:14 → 02:14] WPM: 13.89 | CPS: 1.16 | Chars: 58 | Backs: 0 | Misspelled: 1 | Mistakes: 2.59%
+[2025-08-05 02:15 → 02:16] WPM: 47.20 | CPS: 3.93 | Chars: 248 | Backs: 0 | Misspelled: 4 | Mistakes: 2.42%
+[2025-08-05 02:18 → 02:20] WPM: 36.86 | CPS: 3.07 | Chars: 496 | Backs: 8 | Misspelled: 2 | Mistakes: 1.41%
+[2025-08-05 02:21 → 02:23] WPM: 21.17 | CPS: 1.76 | Chars: 181 | Backs: 2 | Misspelled: 1 | Mistakes: 1.38%
+[2025-08-05 02:33 → 02:33] WPM: 11.63 | CPS: 0.97 | Chars: 4 | Backs: 1 | Misspelled: 0 | Mistakes: 12.50%
+[2025-08-05 02:33 → 02:34] WPM: 20.23 | CPS: 1.69 | Chars: 72 | Backs: 3 | Misspelled: 2 | Mistakes: 6.25%
+[2025-08-05 02:35 → 02:42] WPM: 15.22 | CPS: 1.27 | Chars: 463 | Backs: 11 | Misspelled: 15 | Mistakes: 6.05%
